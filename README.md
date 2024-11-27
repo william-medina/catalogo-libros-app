@@ -71,7 +71,7 @@ La App de **Catálogo de Libros** depende de una API externa para obtener datos 
 
 ### Repositorio de la API
 
-La API para la **Catálogo de Libros** se encuentra en un repositorio separado. Puedes encontrarla aquí:
+La API para el **Catálogo de Libros** se encuentra en un repositorio separado. Puedes encontrarla aquí:
 
 - [Catálogo de Libros API](https://github.com/william-medina/catalogo-libros-api) - Este repositorio contiene la API en Spring Boot.
 
